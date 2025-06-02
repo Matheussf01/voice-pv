@@ -21,8 +21,8 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    /*background-color: #000000cc;
-    backdrop-filter: blur(1px);*/
+    background-color: #000000cc;
+    backdrop-filter: blur(1px);
     z-index: -1; /* Coloca atrás do conteúdo */
 }
 .container {
